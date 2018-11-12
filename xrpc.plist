@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>xrpc</string>
 				<key>bundle-version</key>
-				<string>5.0</string>
+				<string>6.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>筋脉</string>
+				<string>xrpc</string>
 			</dict>
 		</dict>
 	</array>
